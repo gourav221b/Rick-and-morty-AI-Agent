@@ -15,6 +15,7 @@
   "dependencies": {
     "@ai-sdk/groq": "^1.1.14",
     "@mastra/core": "^0.6.0",
+    "@mastra/deployer-netlify": "^0.1.9",
     "mastra": "^0.3.1",
     "web-agents": "file:",
     "zod": "^3.24.2"
